@@ -32,23 +32,26 @@ Atualmente trabalho utilizando a linguagem Delphi, mas meu alvo é trabalhar com
 </p>
 
 ## Atualmente estou...
-
-<p align="center">
-
- <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
-
----
-
-</p>
-
-## Contatos
-
 <p>
  Estudando Java e adorando...
  </p>
+ 
+ ---
+ 
+## Contatos
 
----
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/diferreiraprogramer">
+    <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/social/Linkedin.svg" width="150" alt="Linkedin" style="vertical-align:top; margin:10px">
+ </a> &nbsp; &nbsp;
+ 
+ <a href="https://www.linkedin.com/in/diferreiraprogramer">
+    <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/social/Linkedin.svg" width="150" alt="Linkedin" style="vertical-align:top; margin:10px">
+ </a> &nbsp; &nbsp;
+  
 </p>
+
 
 ## Mais alguns projetos
 
