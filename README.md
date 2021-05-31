@@ -64,4 +64,4 @@ Atualmente trabalho utilizando a linguagem Delphi, mas meu alvo é trabalhar com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=di-ferreira&layout=compact&theme=gotham&custom_title=Top-Linguagens)](https://github.com/di-ferreira)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=di-ferreira&repo=teste-dna)](https://github.com/di-ferreira/teste-dna)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=di-ferreira&repo=teste-dna&theme=gotham)](https://github.com/di-ferreira/teste-dna)
