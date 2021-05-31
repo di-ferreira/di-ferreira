@@ -10,6 +10,12 @@ Atualmente trabalho utilizando a linguagem Delphi, mas meu alvo é trabalhar com
 <p align="center">
 
  <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/frameworks/ReactJS.svg" alt="ReactJS" style="vertical-align:top; margin:4px; width:50px;">
+ 
+ <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/frameworks/React_native.svg" alt="React Native" style="vertical-align:top; margin:4px; width:50px;"> 
+ 
+ <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/frameworks/NodeJS.svg" alt="Node JS" style="vertical-align:top; margin:4px; width:50px;">
+
+ <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/frameworks/Bootstrap.svg" alt="Node JS" style="vertical-align:top; margin:4px; width:50px;">
 
 ---
 
