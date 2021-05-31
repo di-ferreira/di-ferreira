@@ -18,7 +18,6 @@ Atualmente trabalho utilizando a linguagem Delphi, mas meu alvo é trabalhar com
 
  <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/languages/Sass.svg" width="150" alt="Sass" style="vertical-align:top; margin:10px">
 
- --
  
  <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/frameworks/ReactJS.svg" width="150" alt="ReactJS" style="vertical-align:top; margin:10px">
  
@@ -44,11 +43,10 @@ Atualmente trabalho utilizando a linguagem Delphi, mas meu alvo é trabalhar com
 
 ## Contatos
 
-<p align="center">
+<p>
+ Estudando Java e adorando...
+ </p>
 
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
 ---
 </p>
 
@@ -60,3 +58,8 @@ Atualmente trabalho utilizando a linguagem Delphi, mas meu alvo é trabalhar com
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
+
+---
+### Um pouco mais sobre meu git
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=di-ferreira&layout=compact)](https://github.com/di-ferreira)
