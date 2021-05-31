@@ -62,4 +62,4 @@ Atualmente trabalho utilizando a linguagem Delphi, mas meu alvo é trabalhar com
 ---
 ### Um pouco mais sobre meu git
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=di-ferreira&layout=compact)](https://github.com/di-ferreira)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=di-ferreira&layout=compact&hide_title=true&theme=gotham)](https://github.com/di-ferreira)
