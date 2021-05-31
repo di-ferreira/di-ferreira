@@ -9,13 +9,13 @@ Atualmente trabalho utilizando a linguagem Delphi, mas meu alvo é trabalhar com
 
 <p align="center">
 
- <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/frameworks/ReactJS.svg" width="200" alt="ReactJS" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/frameworks/ReactJS.svg" width="150" alt="ReactJS" style="vertical-align:top; margin:10px">
  
- <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/frameworks/React_native.svg" width="200" alt="React Native" style="vertical-align:top; margin:4px"> 
+ <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/frameworks/React_native.svg" width="150" alt="React Native" style="vertical-align:top; margin:10px"> 
  
- <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/frameworks/NodeJS.svg" width="200" alt="Node JS" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/frameworks/NodeJS.svg" width="150" alt="Node JS" style="vertical-align:top; margin:10px">
 
- <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/frameworks/Bootstrap.svg" width="200" alt="Node JS" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/frameworks/Bootstrap.svg" width="150" alt="Node JS" style="vertical-align:top; margin:10px">
 
 ---
 
