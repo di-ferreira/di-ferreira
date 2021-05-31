@@ -8,7 +8,18 @@ Atualmente trabalho utilizando a linguagem Delphi, mas meu alvo é trabalhar com
 ## 💻Linguagens e Frameworks
 
 <p align="center">
+ 
+  
+ <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/languages/Javascript.svg" width="150" alt="Javascript" style="vertical-align:top; margin:10px">
+ 
+ <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/languages/Typescript.svg" width="150" alt="Typescript" style="vertical-align:top; margin:10px">
+ 
+ <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/languages/PHP.svg" width="150" alt="PHP" style="vertical-align:top; margin:10px">
 
+ <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/languages/Sass.svg" width="150" alt="Sass" style="vertical-align:top; margin:10px">
+
+ --
+ 
  <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/frameworks/ReactJS.svg" width="150" alt="ReactJS" style="vertical-align:top; margin:10px">
  
  <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/frameworks/React_native.svg" width="150" alt="React Native" style="vertical-align:top; margin:10px"> 
