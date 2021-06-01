@@ -65,20 +65,20 @@ Atualmente trabalho utilizando a linguagem Delphi, mas meu alvo é trabalhar com
 
 ## Mais alguns projetos
 
-<a href="https://github.com/di-ferreira/teste-dna" style="vertical-align:top; margin:10px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=di-ferreira&theme=gotham&repo=teste-dna" />
+<a href="https://github.com/di-ferreira/teste-dna">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=di-ferreira&theme=gotham&repo=teste-dna"  style="vertical-align:top; margin:10px" />
 </a>
 
-<a href="https://github.com/di-ferreira/rnNossaLista" style="vertical-align:top; margin:10px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=di-ferreira&theme=gotham&repo=rnNossaLista" />
+<a href="https://github.com/di-ferreira/rnNossaLista">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=di-ferreira&theme=gotham&repo=rnNossaLista"  style="vertical-align:top; margin:10px" />
 </a>
 
-<a href="https://github.com/di-ferreira/memoryGameJS" style="vertical-align:top; margin:10px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=di-ferreira&theme=gotham&repo=memoryGameJS" />
+<a href="https://github.com/di-ferreira/memoryGameJS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=di-ferreira&theme=gotham&repo=memoryGameJS" style="vertical-align:top; margin:10px" />
 </a>
 
 <a href="https://github.com/di-ferreira/Sds3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=di-ferreira&theme=gotham&repo=Sds3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=di-ferreira&theme=gotham&repo=Sds3" style="vertical-align:top; margin:10px" />
 </a>
 
 ---
