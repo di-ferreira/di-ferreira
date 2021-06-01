@@ -65,28 +65,23 @@ Atualmente trabalho utilizando a linguagem Delphi, mas meu alvo é trabalhar com
 
 ## Mais alguns projetos
 
-<a href="https://github.com/di-ferreira/teste-dna">
+<a href="https://github.com/di-ferreira/teste-dna" style="vertical-align:top; margin:10px">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=di-ferreira&theme=gotham&repo=teste-dna" />
 </a>
 
-<a href="https://github.com/di-ferreira/rnNossaLista">
+<a href="https://github.com/di-ferreira/rnNossaLista" style="vertical-align:top; margin:10px">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=di-ferreira&theme=gotham&repo=rnNossaLista" />
 </a>
 
-<a href="https://github.com/di-ferreira/memoryGameJS">
+<a href="https://github.com/di-ferreira/memoryGameJS" style="vertical-align:top; margin:10px">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=di-ferreira&theme=gotham&repo=memoryGameJS" />
 </a>
 
+<a href="https://github.com/di-ferreira/Sds3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=di-ferreira&theme=gotham&repo=Sds3" />
+</a>
 
 ---
 ### Um pouco mais sobre meu git
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=di-ferreira&layout=compact&theme=gotham&custom_title=Minhas%20Linguagens)](https://github.com/di-ferreira)
-
-### Alguns Repositórios
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=di-ferreira&repo=teste-dna&theme=gotham)](https://github.com/di-ferreira/teste-dna)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=di-ferreira&repo=Sds3&theme=gotham)](https://github.com/di-ferreira/Sds3)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=di-ferreira&repo=memoryGameJS&theme=gotham)](https://github.com/di-ferreira/memoryGameJS)
