@@ -34,7 +34,7 @@ Atualmente trabalho utilizando a linguagem Delphi, mas meu alvo é trabalhar com
 ## Atualmente estou...
 
 - [x] Faculdade Analise e desenvolvimento de sistemas;
-- [x] Estudando <img src="https://img.shields.io/static/v1?label=java&message=LANGUAGE&color=ed1f1f&style=for-the-badge&logo=java" alt="JAVA" style="vertical-align:top; margin:10px">
+- [x] Estudando <img src="https://img.shields.io/static/v1?label=java&message=LANGUAGE&color=ed1f1f&style=for-the-badge&logo=java" alt="JAVA" style="vertical-align:middle; margin:10px">
 - [ ] Estudar Cloud Server;
 - [ ] ...
  
@@ -65,16 +65,22 @@ Atualmente trabalho utilizando a linguagem Delphi, mas meu alvo é trabalhar com
 
 ## Mais alguns projetos
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/di-ferreira/teste-dna">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=di-ferreira&theme=gotham&repo=teste-dna" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+
+<a href="https://github.com/di-ferreira/rnNossaLista">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=di-ferreira&theme=gotham&repo=rnNossaLista" />
 </a>
+
+<a href="https://github.com/di-ferreira/memoryGameJS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=di-ferreira&theme=gotham&repo=memoryGameJS" />
+</a>
+
 
 ---
 ### Um pouco mais sobre meu git
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=di-ferreira&layout=compact&theme=gotham&custom_title=Top-Linguagens)](https://github.com/di-ferreira)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=di-ferreira&layout=compact&theme=gotham&custom_title=Minhas%20Linguagens)](https://github.com/di-ferreira)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=di-ferreira&repo=teste-dna&theme=gotham)](https://github.com/di-ferreira/teste-dna)
