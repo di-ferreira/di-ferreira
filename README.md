@@ -19,7 +19,7 @@ Atualmente trabalho utilizando a linguagem Delphi, mas meu alvo é trabalhar com
  <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/languages/Sass.svg" width="150" alt="Sass" style="vertical-align:top; margin:10px">
 
  
- <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/frameworks/ReactJS.svg" width="150" alt="ReactJS" style="vertical-align:top; margin:10px">
+ <img src="https://img.shields.io/static/v1?label=reactjs&message=framework&color=blue&style=for-the-badge&logo=REACT" width="150" alt="ReactJS" style="vertical-align:top; margin:10px">
  
  <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/frameworks/React_native.svg" width="150" alt="React Native" style="vertical-align:top; margin:10px"> 
  
