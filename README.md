@@ -32,13 +32,11 @@ Atualmente trabalho utilizando a linguagem Delphi, mas meu alvo é trabalhar com
 </p>
 
 ## Atualmente estou...
-<p>
+
 -[x] Faculdade Analise e desenvolvimento de sistemas;
 -[x] Estudando https://img.shields.io/static/v1?label=java&message=LANGUAGE&color=ed1f1f&style=for-the-badge&logo=java ...
 -[] Estudar Cloud Server;
 -[] ...
-
-</p>
  
  ---
  
