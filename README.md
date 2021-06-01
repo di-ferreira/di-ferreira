@@ -10,22 +10,22 @@ Atualmente trabalho utilizando a linguagem Delphi, mas meu alvo é trabalhar com
 <p align="center">
  
   
- <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/languages/Javascript.svg" width="150" alt="Javascript" style="vertical-align:top; margin:10px">
+ <img src="https://img.shields.io/static/v1?label=javascript&message=LANGUAGE&color=yellow&style=for-the-badge&logo=JAVASCRIPT" alt="Javascript" style="vertical-align:top; margin:10px">
  
- <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/languages/Typescript.svg" width="150" alt="Typescript" style="vertical-align:top; margin:10px">
+ <img src="https://img.shields.io/static/v1?label=typescript&message=LANGUAGE&color=blue&style=for-the-badge&logo=TYPESCRIPT" alt="Typescript" style="vertical-align:top; margin:10px">
  
- <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/languages/PHP.svg" width="150" alt="PHP" style="vertical-align:top; margin:10px">
+ <img src="https://img.shields.io/static/v1?label=php&message=LANGUAGE&color=7b5499&style=for-the-badge&logo=PHP" alt="PHP" style="vertical-align:top; margin:10px">
 
- <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/languages/Sass.svg" width="150" alt="Sass" style="vertical-align:top; margin:10px">
+ <img src="https://img.shields.io/static/v1?label=sass&message=LANGUAGE&color=bd55a9&style=for-the-badge&logo=SASS" alt="Sass" style="vertical-align:top; margin:10px">
 
  
- <img src="https://img.shields.io/static/v1?label=reactjs&message=framework&color=blue&style=for-the-badge&logo=REACT" width="150" alt="ReactJS" style="vertical-align:top; margin:10px">
+ <img src="https://img.shields.io/static/v1?label=reactjs&message=framework&color=blue&style=for-the-badge&logo=REACT" alt="ReactJS" style="vertical-align:top; margin:10px">
  
- <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/frameworks/React_native.svg" width="150" alt="React Native" style="vertical-align:top; margin:10px"> 
+ <img src="https://img.shields.io/static/v1?label=react%20native&message=FRAMEWORK&color=blue&style=for-the-badge&logo=REACT" alt="React Native" style="vertical-align:top; margin:10px"> 
  
- <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/frameworks/NodeJS.svg" width="150" alt="Node JS" style="vertical-align:top; margin:10px">
+ <img src="https://img.shields.io/static/v1?label=nodejs&message=FRAMEWORK&color=green&style=for-the-badge&logo=nodedotjs" alt="Node JS" style="vertical-align:top; margin:10px">
 
- <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/frameworks/Bootstrap.svg" width="150" alt="Node JS" style="vertical-align:top; margin:10px">
+ <img src="https://img.shields.io/static/v1?label=bootstrap&message=FRAMEWORK&color=971fed&style=for-the-badge&logo=bootstrap" alt="Node JS" style="vertical-align:top; margin:10px">
 
 ---
 
@@ -33,8 +33,12 @@ Atualmente trabalho utilizando a linguagem Delphi, mas meu alvo é trabalhar com
 
 ## Atualmente estou...
 <p>
- Estudando Java e adorando...
- </p>
+- [x] Faculdade Analise e desenvolvimento de sistemas;
+- [x] Estudando https://img.shields.io/static/v1?label=java&message=LANGUAGE&color=ed1f1f&style=for-the-badge&logo=java ...
+- [] Estudar Cloud Server;
+- [] ...
+
+</p>
  
  ---
  
@@ -43,11 +47,19 @@ Atualmente trabalho utilizando a linguagem Delphi, mas meu alvo é trabalhar com
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diferreiraprogramer">
-    <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/social/Linkedin.svg" width="150" alt="Linkedin" style="vertical-align:top; margin:10px">
+    <img src="https://img.shields.io/badge/-linkedin-309bf2?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linkedin" style="vertical-align:top; margin:10px">
  </a> &nbsp; &nbsp;
  
- <a href="https://www.linkedin.com/in/diferreiraprogramer">
-    <img src="https://github.com/di-ferreira/di-ferreira/blob/master/assets/social/Linkedin.svg" width="150" alt="Linkedin" style="vertical-align:top; margin:10px">
+ <a href="https://www.instagram.com/di_da_pri/">
+    <img src="https://img.shields.io/badge/-instagram-DD2A7B?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" style="vertical-align:top; margin:10px">
+ </a> &nbsp; &nbsp;
+ 
+ <a href="https://www.facebook.com/DiSantosFerreira/">
+    <img src="https://img.shields.io/badge/-facebook-3B5998?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" style="vertical-align:top; margin:10px">
+ </a> &nbsp; &nbsp;
+ 
+ <a href="https://api.whatsapp.com/send?phone=5521974122811&text=ol%C3%A1%2C%20vi%20seu%20github">
+    <img src="https://img.shields.io/badge/-whatsapp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="Whatsapp" style="vertical-align:top; margin:10px">
  </a> &nbsp; &nbsp;
   
 </p>
