@@ -83,4 +83,10 @@ Atualmente trabalho utilizando a linguagem Delphi, mas meu alvo é trabalhar com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=di-ferreira&layout=compact&theme=gotham&custom_title=Minhas%20Linguagens)](https://github.com/di-ferreira)
 
+### Alguns Repositórios
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=di-ferreira&repo=teste-dna&theme=gotham)](https://github.com/di-ferreira/teste-dna)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=di-ferreira&repo=Sds3&theme=gotham)](https://github.com/di-ferreira/Sds3)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=di-ferreira&repo=memoryGameJS&theme=gotham)](https://github.com/di-ferreira/memoryGameJS)
