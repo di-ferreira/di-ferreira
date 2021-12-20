@@ -56,7 +56,7 @@ Atualmente trabalho utilizando a linguagem Delphi, mas meu alvo é trabalhar com
     <img src="https://img.shields.io/badge/-facebook-3B5998?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" style="vertical-align:top; margin:10px">
  </a> &nbsp; &nbsp;
  
- <a href="https://api.whatsapp.com/send?phone=5521974122811&text=ol%C3%A1%2C%20vi%20seu%20github">
+ <a href="https://api.whatsapp.com/send?phone=5522981136574&text=ol%C3%A1%2C%20vi%20seu%20github">
     <img src="https://img.shields.io/badge/-whatsapp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="Whatsapp" style="vertical-align:top; margin:10px">
  </a> &nbsp; &nbsp;
   
